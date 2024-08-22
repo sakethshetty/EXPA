@@ -1,0 +1,6 @@
+/myenv
+# Ignore Python cache files
+**/__pycache__/
+**/*.pyc
+Team-18.zip
+backend/.env
